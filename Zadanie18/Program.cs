@@ -12,7 +12,7 @@ try
     {
         if (i % x == 0 && i % y == 0)
         {
-            Console.WriteLine(i);
+            Console.WriteLine($"Наименьшее общее кратное чисел {x} и {y} - число {i}");
             break;
         }
     }

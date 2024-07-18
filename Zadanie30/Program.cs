@@ -8,7 +8,7 @@ int[][] mas = new int[][]
     new int[] { 1},
     new int[] { 13, -20, -6, -9 },
     new int[] { 0, 16, 5 }
-};
+}; 
 //Вывод массива.
 for(int i = 0; i < mas.Length; i++)
 {

@@ -2,7 +2,7 @@
 Console.Write("Введите строку:");
 string word=Console.ReadLine()!;
 string reverse = "";
-for (int i = word.Length - 1; i > 0; i--) reverse += word[i];
+for (int i = word.Length - 1; i >= 0; i--) reverse += word[i];
 if (word == reverse) Console.WriteLine("Палиндром");
 else Console.WriteLine("Не палиндром");
 

@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{A9D044D4-C2C3-4A10-AC2F-0F18DDF7A1DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{A9D044D4-C2C3-4A10-AC2F-0F18DDF7A1DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie6", "Zadanie6\Zadanie6.csproj", "{C78CAF23-D68B-43D6-A0D3-D67E5256E5C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie6", "Zadanie6\Zadanie6.csproj", "{C78CAF23-D68B-43D6-A0D3-D67E5256E5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie9", "Zadanie9\Zadanie9.csproj", "{4E5CC953-CB90-45B1-9973-63D9BEB80BE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie9", "Zadanie9\Zadanie9.csproj", "{4E5CC953-CB90-45B1-9973-63D9BEB80BE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie12", "Zadanie12\Zadanie12.csproj", "{3400161C-D902-4427-A8B0-67F9C4AE54C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie12", "Zadanie12\Zadanie12.csproj", "{3400161C-D902-4427-A8B0-67F9C4AE54C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie15", "Zadanie15\Zadanie15.csproj", "{89060B0A-CECF-4184-B6D2-F66EC051CC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie15", "Zadanie15\Zadanie15.csproj", "{89060B0A-CECF-4184-B6D2-F66EC051CC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie18", "Zadanie18\Zadanie18.csproj", "{F518F256-34B8-45D3-9957-6967AD51536F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie18", "Zadanie18\Zadanie18.csproj", "{F518F256-34B8-45D3-9957-6967AD51536F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie21", "Zadanie21\Zadanie21.csproj", "{21037767-27A2-403C-AADA-1B0D22A871CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie21", "Zadanie21\Zadanie21.csproj", "{21037767-27A2-403C-AADA-1B0D22A871CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie24", "Zadanie24\Zadanie24.csproj", "{AB1F2892-DD89-446D-8161-A5EED5E1D711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie24", "Zadanie24\Zadanie24.csproj", "{AB1F2892-DD89-446D-8161-A5EED5E1D711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie27", "Zadanie27\Zadanie27.csproj", "{168E8807-D1DD-4B65-869D-0317185CC910}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie27", "Zadanie27\Zadanie27.csproj", "{168E8807-D1DD-4B65-869D-0317185CC910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie30", "Zadanie30\Zadanie30.csproj", "{1E1D8E6D-1C47-44FF-9E89-15831F164D19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{168E8807-D1DD-4B65-869D-0317185CC910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168E8807-D1DD-4B65-869D-0317185CC910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168E8807-D1DD-4B65-869D-0317185CC910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1D8E6D-1C47-44FF-9E89-15831F164D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1D8E6D-1C47-44FF-9E89-15831F164D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1D8E6D-1C47-44FF-9E89-15831F164D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1D8E6D-1C47-44FF-9E89-15831F164D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
